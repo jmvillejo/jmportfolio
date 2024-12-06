@@ -1,6 +1,6 @@
 # jmportfolio
 
-# Resume
+# About Me
 
 ### Objective
 Motivated and detail-oriented third-year BSIT student with hands-on experience in software development, database management, and network administration. Seeking opportunities to apply technical skills and gain industry experience in a dynamic IT environment.
