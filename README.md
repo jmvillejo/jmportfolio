@@ -10,17 +10,20 @@ Motivated and detail-oriented third-year BSIT student with hands-on experience i
 - Philippine Christian University
 
 ### Skills
-- Programming Languages: Python, Java, C++, HTML/CSS, JavaScript, SQL
-- Web Development: Front-end (HTML5, CSS3, JavaScript, React), Back-end (Node.js, Express)
-- Database Management: MySQL, PostgreSQL, MongoDB
-- Tools & Software: Git, Visual Studio Code, Eclipse, Android Studio, Microsoft Office Suite
-- Operating Systems: Windows, Linux (Ubuntu)
-- Other Skills: Troubleshooting, Network Configuration, Cloud Services (AWS or Google Cloud), Team Collaboration
+- Videographer
+- 
+- Troubleshooting, Network Configuration, Cloud Services (AWS or Google Cloud), Team Collaboration
+- Photographer
+- editing
 
 ### Hobbies
 - playing online games
-- basketball
+- lestening to music
 - watching movies
+- nature exploring
 
 ### Projects
 ![Camera shots](IMG_3601.JPG)
+
+### Projects
+[Publication](https://jmyvillejo.wixsite.com/jemvv?fbclid=IwZXh0bgNhZW0CMTEAAR3YAxeSzX71sRivVMipeVDeQ5GW6-rXRVv4KOQQReL8A9e0IFoxdAPzrfY_aem_Xp96ouKQAnCjaZH9XRUmyw)
